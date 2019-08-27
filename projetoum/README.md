@@ -1,16 +1,7 @@
-# projetoum
+# Contador de pessoas
 
-A new Flutter project.
+## Primeiro app desenvolvido em Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O aplicativo só incrementa e decrementa a quantidade de pessoas de um local
+quando esse total ultrapassa de 10 ele dá a mensagem de lotado, quando ele dá negativo ele da a mensagem mundo invertido
+e quando esta entre 0 e 10 da a mensagem de Pode entrar.
